@@ -21,7 +21,7 @@ fun MainScreen(viewModel: MainViewModel = viewModel()) {
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .verticalScroll(rememberScrollState()) // ✅ enable vertical scrolling
+            .verticalScroll(rememberScrollState())
     ) {
         layoutItems.forEach { item ->
             when (item.type) {
@@ -34,3 +34,4 @@ fun MainScreen(viewModel: MainViewModel = viewModel()) {
         }
     }
 }
+
