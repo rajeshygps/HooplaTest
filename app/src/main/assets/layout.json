@@ -1,0 +1,31 @@
+[
+  {
+    "type":"PROMO",
+    "thumbnail":"promo.jpg"
+  },
+  {
+    "type":"CAROUSEL",
+    "title":"Carousel A",
+    "dataSourceUrl":"cards.json"
+  },
+  {
+    "type":"CAROUSEL",
+    "title":"Carousel B",
+    "dataSourceUrl":"cards.json"
+  },
+  {
+    "type":"CAROUSEL",
+    "title":"Carousel C",
+    "dataSourceUrl":"cards.json"
+  },
+  {
+    "type":"CAROUSEL",
+    "title":"Carousel D",
+    "dataSourceUrl":"cards.json"
+  },
+  {
+    "type":"CAROUSEL",
+    "title":"Carousel E",
+    "dataSourceUrl":"cards.json"
+  }
+]
